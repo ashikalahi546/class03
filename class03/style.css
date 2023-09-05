@@ -1,0 +1,23 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+h1,h2,h3,h4,h5,h6,p,span{
+    font-family: 'Courier New', Courier, monospace;
+}
+.container{
+    width: 1320px;
+    margin: auto;
+}
+.header{
+    background-color: aqua;
+    padding: 20px;
+
+}
+
+.font{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
